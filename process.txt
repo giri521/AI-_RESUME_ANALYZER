@@ -1,0 +1,33 @@
+
+###python 3.9.12 vession needed ###
+
+python --version
+
+pip --version
+
+python -m pip install --upgrade pip
+  
+
+Visual C++ Build Tools (for Windows users)
+
+Some libraries like pycryptodome, pymysql, and pdfminer.six require C++ Build Tools.
+Install via: https://visualstudio.microsoft.com/visual-cpp-build-tools/
+Microsoft C++ Build Tools
+
+
+python -m nltk.downloader stopwords punkt wordnet averaged_perceptron_tagger
+
+
+python -m spacy download en_core_web_sm
+
+
+pip install pandas numpy
+
+
+pip install streamlit==1.12.2
+
+
+pip install -r requirements.txt
+
+
+
